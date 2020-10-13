@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>6.0.0</latestVersion>
-    <latestVersionCode>6</latestVersionCode>
+    <latestVersion>2.0.0</latestVersion>
+    <latestVersionCode>2</latestVersionCode>
     <url>https://github.com/Mitkemaster/appUpdateRepo</url>
   </update>
 </AppUpdater>

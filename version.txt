@@ -1,2 +1,0 @@
-app_1_version = 2
-app_2_version = 2
